@@ -1,0 +1,10 @@
+.line-small {
+    height: 2px;
+    width: 90%;
+    margin: 0 auto;
+    background-color: #66b2ff;
+}
+.line-vertical-small {
+    width: 3px;
+    background-color: #ff4b45;
+}
