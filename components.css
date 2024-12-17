@@ -4,7 +4,14 @@
     margin: 0 auto;
     background-color: #66b2ff;
 }
+
 .line-vertical-small {
     width: 3px;
     background-color: #ff4b45;
+}
+
+@media (width < 720px) {
+    .line-small {
+        background-color: #66b2ff;
+    }
 }
